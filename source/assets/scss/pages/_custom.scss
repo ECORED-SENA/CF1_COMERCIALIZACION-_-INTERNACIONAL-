@@ -444,3 +444,12 @@ ol.lista > li.mas:before {
         border-top: 1px solid orange;
     }
 }
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 60px;
+    width: 60px;
+    outline: black;
+    background-color: rgba(0,0,0,0.3);
+    background-size: 50%, 50%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
